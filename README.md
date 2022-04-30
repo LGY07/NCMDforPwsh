@@ -3,7 +3,7 @@
 
 # 使用方法:
 
-方法1：[下载](https://github.com/LGY07/NCMDforPwsh/releases)ncmd.ps1，右键选择`使用PowerShell运行`，输入[歌曲ID](https://github.com/LGY07/NCMDforPwsh/blob/main/README.md#%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%AD%8C%E6%9B%B2id%E6%9F%A5%E7%9C%8B%E6%96%B9%E6%B3%95)
+方法1：[下载](https://github.com/LGY07/NCMDforPwsh/releases)`ncmd.ps1`，右键选择`使用PowerShell运行`，输入[歌曲ID](https://github.com/LGY07/NCMDforPwsh/blob/main/README.md#%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%AD%8C%E6%9B%B2id%E6%9F%A5%E7%9C%8B%E6%96%B9%E6%B3%95)
 
 方法2：打开PowerShell，输入
 ```
