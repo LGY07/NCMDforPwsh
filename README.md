@@ -1,7 +1,7 @@
 # NCMDforPwsh
 网易云音乐歌曲下载器PowerShell实现，通过[Wget for Windows](https://eternallybored.org/misc/wget/)进行下载
 
-Windows版[NCMDforBash](https://github.com/LGY07/NCMDforBash)
+此项目为[NCMDforBash](https://github.com/LGY07/NCMDforBash)的MS Windows版
 
 # 使用方法:
 
