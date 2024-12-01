@@ -11,6 +11,7 @@ $FILENAME = $SONGID+".mp3"
 $DOWNLOAD ="url?id="+$SONGID+".mp3"
 $URL = "https://music.163.com/song/media/outer/url?id="+$FILENAME
 Write-Output "Downloading..."
-curl -LO $URL 2> NCMD.log
+.\wget.exe $URL 2> NCMD.log
 Move-Item $DOWNLOAD $FILENAME
 Write-Output "Done!"
+Get-ChildItem $FILENAME
